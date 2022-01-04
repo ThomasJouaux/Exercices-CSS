@@ -1,0 +1,24 @@
+#Nav{
+    background-color: black;
+    height: 50px;
+    display:flex;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.jardin{
+   text-align: center;
+   margin-top: -30px;
+   font-size: x-large;
+}
+#MentionLegales{
+    background-color: black;
+    height: 50px;
+}
+#block{
+    margin-left: 1500px;
+    width: 400px;
+    background-color: rgb(175, 172, 172);
+    height: 425px;
+    position: absolute;
+}
