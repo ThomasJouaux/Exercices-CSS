@@ -4,6 +4,7 @@
     display:flex;
     margin-bottom: 10px;
     padding: 2px 20px;
+    width: auto;
 }
 a{
     color: rgb(255, 255, 255);
@@ -15,13 +16,17 @@ a{
 }
 #MentionLegales{
     background-color: black;
-    
-    padding: 30px 20px
+    padding: 30px 20px ;
+    width: auto;
 }
 #block{
     margin-left: 1500px;
-    width: 400px;
+    width: 388px;
     background-color: rgb(175, 172, 172);
-    height: 425px;
+    height: 420px;
     position: absolute;
+    
+}
+#promo{
+    width: 1887px;
 }
